@@ -1,6 +1,6 @@
 ### Hello! 👋 😁
 
-I am Brexton, a penultimate year undergraduate at the National University of Singapore, majoring in Business Analytics
+I am Brexton, a penultimate year undergraduate at the National University of Singapore, majoring in Business Analytics 📊
 
 🖥️ Currently interested in data science, web development and UI/UX design\
 ✨ Aspire to create better experiences through tech! 
@@ -10,7 +10,7 @@ I am Brexton, a penultimate year undergraduate at the National University of Sin
 ##
 
 
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/brextonho) or email at [jiajiinho@u.nus.edu](mailto:jiajiinho@u.nus.edu subject=Hello!)!
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/brextonho) or email at [jiajiinho@u.nus.edu](mailto:jiajiinho@u.nus.edu?subject=Hello!)!
 
 
 <div id="badges">
