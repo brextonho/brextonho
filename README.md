@@ -10,14 +10,14 @@ I am Brexton, a penultimate year undergraduate at the National University of Sin
 ##
 
 
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/brextonho) or email at [jiajiinho@u.nus.edu](jiajiinho@u.nus.edu)!
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/brextonho) or email at [jiajiinho@u.nus.edu](mailto:jiajiinho@u.nus.edu subject=Hello!)!
 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/brextonho">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jiajiinho@u.nus.edu?subject=Feel%20free%20to%20connect!">
+  <a href="mailto:jiajiinho@u.nus.edu?subject=Hello!">
     <img src="https://img.shields.io/badge/Email-darkred?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 </div>
