@@ -21,3 +21,5 @@ Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/brextonho
     <img src="https://img.shields.io/badge/Email-darkred?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 </div>
+
+[![Growlithe](https://img.pokemondb.net/sprites/black-white/anim/normal/growlithe.gif)](https://pokemondb.net/pokedex/growlithe)
