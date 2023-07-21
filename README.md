@@ -1,6 +1,6 @@
 ### Hello! 👋 😁
 
-I am Brexton, a penultimate year undergraduate at the National University of Singapore, majoring in Business Analytics 📊
+I am Brexton, a final year undergraduate at the National University of Singapore, majoring in Business Analytics 📊
 
 🖥️ Currently interested in data science, web development and UI/UX design\
 ✨ Aspire to create better experiences through tech! 
